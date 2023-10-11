@@ -21,7 +21,7 @@
   "dependencies": {
     "@iconify/icons-feather": "^1.2.3",
     "@iconify/vue": "^4.1.1",
-    "swiper": "^10.3.1",
+    "swiper": "^8.0.0",
     "vue-awesome-swiper": "^5.0.1",
     "vuetify": "^3.3.21"
   }
